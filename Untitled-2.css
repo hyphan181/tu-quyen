@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.out{width: 1000px;height: 2025px;margin: auto}
+.header{width: 800px;height: 700px;padding:50px;margin: auto}
+.box{width: 170px;height: 100px;background-color:darkgrey;float: left;margin-left: 75px}
+.home{width: 800px;height: 50px;background-color:darkgrey;float: left;margin-top: 30px;text-align: center;line-height: 50PX;letter-spacing: 5PX}
+.pic{width: 800px;height: 300px;background-color:darkgrey;float: left;margin-top: 30px;text-align: center;line-height: 400px}
+.box-2{width: 400px;height: 100px;background-color:darkgrey;float: left;margin-top: 30px;text-align: center;margin-left: 200px}
+.main{width: 760px;height: 750px;padding:70px;margin: 
+auto}
+.text-1{width: 350px;height: 100px;float: left}
+.text-2{width: 350px;height: 100px;float: right}
+.box-3{width: 330px;height: 230px;background-color:darkgrey;float: left;margin-top:10px;padding: 10px}
+.box-4{width: 330px;height: 230px;background-color:darkgrey;float: right;margin-top:10px;padding:10px}
+.text-3{width: 350px;height: 100px;float: left;margin-top: 10px}
+.text-4{width: 350px;height: 100px;float: right;margin-top: 10px}
+.footer{width: 760px;height: 200px;padding:70px;margin: 
+auto}
+.box-5{width: 155px;height: 130px;background-color:darkgrey;float:left;padding :10px}
+.box-6{width: 155px;height: 130px;background-color:grey;float: left;padding:10px}
+.box-7{width: 330px;height: 130px;background-color:darkgrey;float:right;padding:10px}
+
+		
